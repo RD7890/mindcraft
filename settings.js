@@ -1,9 +1,9 @@
 export default 
 {
     "minecraft_version": "1.20.4", // supports up to 1.21.1
-    "host": "127.0.0.1", // or "localhost", "your.ip.address.here"
+    "host": "rohandora.falixsrv.me", // or "localhost", "your.ip.address.here"
     "port": 55916,
-    "auth": "offline", // or "microsoft"
+    "auth": "microsoft", // or "microsoft"
 
     // the mindserver manages all agents and hosts the UI
     "host_mindserver": true, // if true, the mindserver will be hosted on this machine. otherwise, specify a public IP address
