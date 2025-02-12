@@ -1,8 +1,8 @@
 export default 
 {
-    "minecraft_version": "1.20.4", // supports up to 1.21.1
-    "host": "rohandora.falixsrv.me", // or "localhost", "your.ip.address.here"
-    "port": 55916,
+    "minecraft_version": "1.21.1", // supports up to 1.21.1
+    "host": "MODS_Netowrk_s1.aternos.me", // or "localhost", "your.ip.address.here"
+    "port": 47686,
     "auth": "microsoft", // or "microsoft"
 
     // the mindserver manages all agents and hosts the UI
