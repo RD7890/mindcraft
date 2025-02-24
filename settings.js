@@ -1,9 +1,9 @@
 export default 
 {
     "minecraft_version": "1.20.4", // supports up to 1.21.1
-    "host": "127.0.0.1", // or "localhost", "your.ip.address.here"
-    "port": process.env.MINECRAFT_PORT || 55916,
-    "auth": "offline", // or "microsoft"
+    "host": "play.modsnetwork.dreamnodes.cloud", // or "localhost", "your.ip.address.here"
+    "port": process.env.MINECRAFT_PORT || 19132,
+    "auth": "microsoft", // or "microsoft"
 
     // the mindserver manages all agents and hosts the UI
     "host_mindserver": true, // if true, the mindserver will be hosted on this machine. otherwise, specify a public IP address
