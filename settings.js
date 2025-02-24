@@ -1,8 +1,8 @@
 export default 
 {
     "minecraft_version": "1.21.1", // supports up to 1.21.1
-    "host": "MODS_Netowrk_s1.aternos.me", // or "localhost", "your.ip.address.here"
-    "port": 47686,
+    "host": "play.modsnetwork.dreamnodes.cloud", // or "localhost", "your.ip.address.here"
+    "port": 19132,
     "auth": "microsoft", // or "microsoft"
 
     // the mindserver manages all agents and hosts the UI
